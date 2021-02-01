@@ -40,11 +40,11 @@ In addition, you will deploy and use your trained model a second time. In the se
 ### for positive review
 
 
-![alt text here](images/positive_review.png)
+![alt text here](images/positive_review1.png)
 
 ### for negative review
 
 
-![alt text here](images/negative_review.png)
+![alt text here](images/negative_review1.png)
 
 
