@@ -37,14 +37,14 @@ In addition, you will deploy and use your trained model a second time. In the se
 
 ## output screenshot
 
-### for negative review
-
-
-![alt text here](images/negative_review.png)
-
 ### for positive review
 
 
 ![alt text here](images/positive_review.png)
+
+### for negative review
+
+
+![alt text here](images/negative_review.png)
 
 
